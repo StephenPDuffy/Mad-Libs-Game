@@ -1,0 +1,38 @@
+PLACE,ADJECTIVE,COLOR,ADJECTIVE,ADVERB,VERB ENDING IN -ING,NUMBER,PLURAL NOUN,VERB (PRESENT TENSE),ITEM,ADVERB,
+Once upon a time, in a quiet peaceful
+there was a
+knight who protected all. His armor was chainmail with a disctinct
+hue. He was thoughtful and kind, but most of all he was renowned for being a very
+knight. His most
+challenge came not in his youth, but as an old man. While
+in the dark woods, he was confronted by a group of
+scary
+. In his prime, he could
+them all with ease; however, as an old man, he now had to rely on his secret weapon: his
+. With that, he was neigh unstoppable. The knight lived
+ever after.
+THE END
+SINGULAR NOUN,ADJECTIVE,SINGULAR NOUN,ADVERB,ADJECTIVE,VERB (PAST TENSE),ADVERB,VERB (PRESENT TENSE),
+There once was a pet
+named Sparky, who was a very
+pet indeed. Sparky was well-behaved and dearly loved by his neighborhood; so it came as a shock to his owner who discovered Sparky was no pet, but a
+instead! Sparky hid the truth because he was
+a
+kind of pet. When the pet shop discovered the truth, they had
+Sparky. However, when his new owner got over the shock of the reveal, he felt
+for Sparky. Finally, Sparky had a new owner that would
+him day and night now.
+THE END
+ADJECTIVE,PLURAL NOUN,PLACE,NUMBER,COLOR,SINGULAR NOUN,VERB ENDING IN -ING,PLACE,VERB ENDING IN -ING,
+The
+
+band was one of the most successful bands in all of
+. Over the years, they sold over
+records. But nothing lasts forever. Turmoil ensured following the death of Rodney "
+" Tames, the lead guitarist. He lost his life due to a
+overdose. In the following years, drummer Anthony Michael was found
+in a shopping mall, making headlines for all the tabloids. The boys had grown up together in
+, but after months of touring and
+together, they could stand the sight of each other. The band formally broke up in 1983.
+THE END
+END OF FILE

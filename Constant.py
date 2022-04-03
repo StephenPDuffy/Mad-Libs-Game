@@ -1,0 +1,24 @@
+# User input menu options
+START = "START"
+QUIT = "QUIT"
+
+# Marks the end of a story
+THE_END = "THE END"
+
+# Marks the end of the file
+END_OF_FILE = "END OF FILE"
+
+# Mad libs word choice options
+SINGULAR_NOUN = "SINGULAR NOUN"
+PLURAL_NOUN = "PLURAL NOUN"
+PERSON = "PERSON"
+PLACE = "PLACE"
+ITEM = "ITEM"
+NUMBER = "NUMBER"
+COLOR = "COLOR"
+
+VERB_PRESENT_TENSE = "VERB (PRESENT TENSE)"
+VERB_PAST_TENSE = "VERB (PAST TENSE)"
+VERB_ENDING_IN_ING = "VERB ENDING IN -ING"
+ADJECTIVE = "ADJECTIVE"
+ADVERB = "ADVERB"
